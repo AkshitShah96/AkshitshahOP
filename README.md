@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Synchronized BlockChain**
 
-- 🌱 I’m currently learning **ReactJS , Django**
+- 🌱 I’m currently learning **ReactJS , Django** , DSA**
 
 - 💬 Ask me about **Android , Backend**
 
